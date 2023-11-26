@@ -1,0 +1,18 @@
+.main {
+    position: relative;
+    top: -600px;
+    text-align: center;
+    border: 1px solid black;
+    width: 900px;
+    margin: 0 auto;
+    padding: 80px;
+
+}
+.main h1 {
+    text-transform: uppercase;
+
+}
+section {
+    display: flex;
+    justify-content: space-between;
+}

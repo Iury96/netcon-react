@@ -1,0 +1,28 @@
+.cards {
+    border: 1px solid black;
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+    margin: 48px 0;
+    
+}
+
+.cards input[type="number"] {
+    padding: 6px;
+    border-radius: 55px;
+    background-color: #ccc;
+    border: none;
+    font-weight: bold;
+}
+.cards input[type="button"] {
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: none;
+    background-color: #801e1e;
+    cursor: pointer;
+    font-weight: bold;
+}
+.cards input[type="button"]:hover {
+    opacity: 0.9;
+}
